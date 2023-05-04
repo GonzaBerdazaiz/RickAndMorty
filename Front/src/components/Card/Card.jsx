@@ -69,7 +69,6 @@ const mapDispatchToProps = (dispatch) => {
     },
   };
 };
-console.log("Hola");
 
 const mapStateToProps = (state) => {
   return {
